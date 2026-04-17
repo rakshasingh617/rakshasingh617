@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raksha Singh</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Node.js Backend Enthusiast</h3>
+<h3 align="center">Full-Stack Developer (Python) | Node.js Backend Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+MongoDB+%7C+Express;Learning+%26+Building+Every+Day;Open+to+Developer+Opportunities" />
@@ -17,7 +17,6 @@
 
 🎓 **Computer Science Graduate (2024)**  
 💻 Aspiring **Full-Stack Developer specializing in Node.js backend development**  
-📍 Based in **Bengaluru, India**  
 🚀 Currently building **real-world MERN stack projects**  
 🎯 Goal: **Secure a developer role and grow into a strong backend engineer**
 
