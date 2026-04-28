@@ -110,15 +110,15 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 ## 📜 Certifications
 
 <p align="left">
-<a href="https://www.hackerrank.com/certificates/c502316e285b">
+<a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
   
-<a href="https://github.com/Yashwant361/certificates/blob/main/DSA%20CERTIFICATE.pdf">
+<a href="https://github.com/">
 <img src="https://img.shields.io/badge/FreeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Yashwant361/certificates/blob/main/GitHub.pdf">
+<a href="https://github.com/">
 <img src="https://img.shields.io/badge/Simplilearn-Web%20Development%20Certification-FF6F00?style=for-the-badge&logo=simplilearn&logoColor=white"/>
 </a>
 
@@ -131,11 +131,11 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yashwantray361">
+<a href="https://www.linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yashwantray57@gmail.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail"/>
 </a>
 
