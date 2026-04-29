@@ -93,15 +93,15 @@ https://build-ecom-o2d2-git-main-alogs-projects-375b7caf.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwant361&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rakshasingh617&show_icons=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwant361&theme=tokyonight" height="165"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshasingh617&theme=tokyonight" height="165"/> -->
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant361&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshasingh617&layout=compact&theme=tokyonight"/>
 
 </p>
 
